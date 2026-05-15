@@ -1,0 +1,141 @@
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/CrudWinApp
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/CrudWinApp.deps.json
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/CrudWinApp.runtimeconfig.json
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/CrudWinApp.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/CrudWinApp.pdb
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/CrudWinApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/CrudWinApp.AssemblyInfoInputs.cache
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/CrudWinApp.AssemblyInfo.cs
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/CrudWinApp.csproj.CoreCompileInputs.cache
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/CrudWinApp.dll
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/refint/CrudWinApp.dll
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/CrudWinApp.pdb
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/CrudWinApp.genruntimeconfig.cache
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/ref/CrudWinApp.dll
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/CrudWinApp.csproj.AssemblyReference.cache
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Azure.Core.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Azure.Identity.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Data.SqlClient.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.EntityFrameworkCore.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Extensions.Caching.Memory.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Extensions.DependencyInjection.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Extensions.Logging.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Extensions.Options.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Extensions.Primitives.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Identity.Client.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.IdentityModel.Abstractions.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.IdentityModel.Logging.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.IdentityModel.Protocols.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.IdentityModel.Tokens.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/Microsoft.SqlServer.Server.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/System.ClientModel.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/System.IdentityModel.Tokens.Jwt.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/System.Memory.Data.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/System.Runtime.Caching.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/de/Microsoft.Data.SqlClient.resources.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/es/Microsoft.Data.SqlClient.resources.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/fr/Microsoft.Data.SqlClient.resources.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/it/Microsoft.Data.SqlClient.resources.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/ja/Microsoft.Data.SqlClient.resources.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/ko/Microsoft.Data.SqlClient.resources.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/ru/Microsoft.Data.SqlClient.resources.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/runtimes/unix/lib/net8.0/Microsoft.Data.SqlClient.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/runtimes/win/lib/net8.0/Microsoft.Data.SqlClient.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brian/vs-code-projects/CrudWinApp/bin/Debug/net9.0-windows/runtimes/win/lib/net8.0/System.Runtime.Caching.dll
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/CrudWinApp.csproj.Up2Date
+/Users/brian/vs-code-projects/CrudWinApp/obj/Debug/net9.0-windows/CrudWinApp.sourcelink.json
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\CrudWinApp.exe
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\CrudWinApp.deps.json
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\CrudWinApp.runtimeconfig.json
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\CrudWinApp.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\CrudWinApp.pdb
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\CrudWinApp.csproj.AssemblyReference.cache
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\CrudWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\CrudWinApp.AssemblyInfoInputs.cache
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\CrudWinApp.AssemblyInfo.cs
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\CrudWinApp.csproj.CoreCompileInputs.cache
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\CrudWinApp.csproj.Up2Date
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\CrudWinApp.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\refint\CrudWinApp.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\CrudWinApp.pdb
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\CrudWinApp.genruntimeconfig.cache
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\obj\Debug\net9.0-windows\ref\CrudWinApp.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\System.IO.Pipelines.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\DotNetEnv.dll
+C:\Users\Brian Erjas\OneDrive\Pictures\Documents\vsc\CrudWinApp\bin\Debug\net9.0-windows\Superpower.dll
